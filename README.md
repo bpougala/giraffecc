@@ -5,3 +5,7 @@ As the name suggests, giraffecc is a project that will span for the following we
  Each weekly release will be accompanied by a description file of all my choices. 
  
  Feel free to ask me questions or make suggestions. 
+
+
+### 01/11/2018 - Week 1 
+For the first week, we'll start with a very simple compiler that can compile C files with a unique main function that returns integers. 
